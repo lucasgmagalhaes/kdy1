@@ -8,7 +8,7 @@
   - [Facebook](https://www.facebook.com/profile.php?id=100024888122318)
   - [Instagram](https://www.instagram.com/kdy1123/)
 
-### 🗄 My projects:
+### My projects:
 
 ```
 ⭐️ 8587 📦 swc-project/swc
@@ -23,7 +23,7 @@
 ⭐️ 2    📦 kdy1/app_base
 ```
 
-### 🗣 My activity:
+### My activity:
 
 ```
 ⬆️ Pushed 1 commit to swc-project/swc
@@ -34,4 +34,4 @@
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, July 22nd 2020, 9:55:19 am UTC</b></p>
+<p align="center">Last refresh: <b>Wednesday, July 22nd 2020, 9:57:08 am UTC</b></p>
