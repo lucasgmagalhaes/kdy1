@@ -8,13 +8,13 @@
   - [Facebook](https://www.facebook.com/profile.php?id=100024888122318)
   - [Instagram](https://www.instagram.com/kdy1123/)
 
-### 🗄 My projects:
+### My projects:
 
 ```
 <!--GITHUB_REPOS:{"rows": 10, "raw": true}-->
 ```
 
-### 🗣 My activity:
+### My activity:
 
 ```
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
