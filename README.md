@@ -11,7 +11,7 @@
 ### My projects:
 
 ```
-⭐️ 8592 📦 swc-project/swc
+⭐️ 8593 📦 swc-project/swc
 ⭐️ 139  📦 kdy1/rweb
 ⭐️ 11   📦 kdy1/typed_firestore
 ⭐️ 6    📦 kdy1/swc
@@ -26,12 +26,12 @@
 ### My activity:
 
 ```
+⬆️ Pushed 2 commits to kdy1/swc
+🗣 Commented on #888 in swc-project/swc
 ⬆️ Pushed 1 commit to kdy1/swc
 ⬆️ Pushed 7 commits to kdy1/swc
 🗣 Commented on #26 in knoxpo/dart_algolia
-💪 Opened PR #29 in knoxpo/dart_algolia
-⬆️ Pushed 5 commits to kdy1/dart_algolia
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, July 23rd 2020, 3:48:10 am UTC</b></p>
+<p align="center">Last refresh: <b>Thursday, July 23rd 2020, 4:48:10 am UTC</b></p>
