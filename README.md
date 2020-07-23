@@ -26,12 +26,12 @@
 ### My activity:
 
 ```
+⬆️ Pushed 1 commit to kdy1/swc
+⬆️ Pushed 7 commits to kdy1/swc
 🗣 Commented on #26 in knoxpo/dart_algolia
 💪 Opened PR #29 in knoxpo/dart_algolia
 ⬆️ Pushed 5 commits to kdy1/dart_algolia
-❌ Closed PR #15 in knoxpo/dart_algolia
-⬆️ Pushed 2 commits to kdy1/swc
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, July 23rd 2020, 2:48:14 am UTC</b></p>
+<p align="center">Last refresh: <b>Thursday, July 23rd 2020, 3:48:10 am UTC</b></p>
