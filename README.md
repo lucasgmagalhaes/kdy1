@@ -11,8 +11,8 @@
 ### My projects:
 
 ```
-⭐️ 8602 📦 swc-project/swc
-⭐️ 139  📦 kdy1/rweb
+⭐️ 8604 📦 swc-project/swc
+⭐️ 140  📦 kdy1/rweb
 ⭐️ 11   📦 kdy1/typed_firestore
 ⭐️ 6    📦 kdy1/swc
 ⭐️ 5    📦 kdy1/is-macro
@@ -26,12 +26,12 @@
 ### My activity:
 
 ```
+🗣 Commented on #891 in swc-project/swc
+⬆️ Pushed 1 commit to swc-project/swc
+🎉 Merged PR #891 in swc-project/swc
 🗣 Commented on #620 in swc-project/swc
 ❗️ Closed issue #883 in swc-project/swc
-🎉 Merged PR #886 in swc-project/swc
-❗️ Closed issue #620 in swc-project/swc
-⬆️ Pushed 1 commit to kdy1/swc
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, July 24th 2020, 7:47:53 am UTC</b></p>
+<p align="center">Last refresh: <b>Friday, July 24th 2020, 8:47:53 am UTC</b></p>
