@@ -11,7 +11,7 @@
 ### My projects:
 
 ```
-⭐️ 8633 📦 swc-project/swc
+⭐️ 8634 📦 swc-project/swc
 ⭐️ 140  📦 kdy1/rweb
 ⭐️ 11   📦 kdy1/typed_firestore
 ⭐️ 6    📦 kdy1/swc
@@ -26,12 +26,12 @@
 ### My activity:
 
 ```
+🗣 Commented on #364 in swc-project/swc
+⬆️ Pushed 1 commit to kdy1/swc
 ⬆️ Pushed 1 commit to kdy1/swc
 ⬆️ Pushed 1 commit to kdy1/swc
 ⬆️ Pushed 3 commits to kdy1/swc
-💪 Opened PR #901 in swc-project/swc
-🗣 Commented on #896 in swc-project/swc
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, July 27th 2020, 9:48:21 am UTC</b></p>
+<p align="center">Last refresh: <b>Monday, July 27th 2020, 10:48:16 am UTC</b></p>
