@@ -11,7 +11,7 @@
 ### My projects:
 
 ```
-⭐️ 8643 📦 swc-project/swc
+⭐️ 8642 📦 swc-project/swc
 ⭐️ 140  📦 kdy1/rweb
 ⭐️ 11   📦 kdy1/typed_firestore
 ⭐️ 6    📦 kdy1/swc
@@ -26,12 +26,12 @@
 ### My activity:
 
 ```
-⬆️ Pushed 3 commits to kdy1/swc
-🗣 Commented on #364 in swc-project/swc
-⬆️ Pushed 2 commits to kdy1/swc
-🗣 Commented on #243 in denoland/deno_lint
-❗️ Opened issue #908 in swc-project/swc
+❗️ Closed issue #908 in swc-project/swc
+⬆️ Pushed 1 commit to kdy1/swc
+⬆️ Pushed 1 commit to kdy1/swc
+🗣 Commented on #908 in swc-project/swc
+💪 Opened PR #909 in swc-project/swc
 ```
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, July 28th 2020, 9:48:06 am UTC</b></p>
+<p align="center">Last refresh: <b>Tuesday, July 28th 2020, 10:48:11 am UTC</b></p>
