@@ -11,7 +11,7 @@
 ### My projects:
 
 ```
-⭐️ 8644 📦 swc-project/swc
+⭐️ 8643 📦 swc-project/swc
 ⭐️ 140  📦 kdy1/rweb
 ⭐️ 11   📦 kdy1/typed_firestore
 ⭐️ 6    📦 kdy1/swc
@@ -34,4 +34,4 @@
 ```
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, July 28th 2020, 7:47:54 pm UTC</b></p>
+<p align="center">Last refresh: <b>Tuesday, July 28th 2020, 8:47:54 pm UTC</b></p>
