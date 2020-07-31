@@ -11,7 +11,7 @@
 ### My projects:
 
 ```
-⭐️ 8696 📦 swc-project/swc
+⭐️ 8697 📦 swc-project/swc
 ⭐️ 140  📦 kdy1/rweb
 ⭐️ 11   📦 kdy1/typed_firestore
 ⭐️ 6    📦 kdy1/swc
@@ -26,12 +26,12 @@
 ### My activity:
 
 ```
+⬆️ Pushed 1 commit to swc-project/swc-project.github.io
+⬆️ Pushed 1 commit to swc-project/website
 📦 Released "null" in swc-project/node-swc
 ⬆️ Pushed 1 commit to swc-project/node-swc
 ⬆️ Pushed 1 commit to swc-project/swc
-🎉 Merged PR #909 in swc-project/swc
-❗️ Closed issue #856 in swc-project/swc
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, July 31st 2020, 10:48:07 am UTC</b></p>
+<p align="center">Last refresh: <b>Friday, July 31st 2020, 11:48:04 am UTC</b></p>
