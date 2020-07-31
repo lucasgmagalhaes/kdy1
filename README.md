@@ -11,7 +11,7 @@
 ### My projects:
 
 ```
-⭐️ 8690 📦 swc-project/swc
+⭐️ 8691 📦 swc-project/swc
 ⭐️ 140  📦 kdy1/rweb
 ⭐️ 11   📦 kdy1/typed_firestore
 ⭐️ 6    📦 kdy1/swc
@@ -26,12 +26,12 @@
 ### My activity:
 
 ```
-⬆️ Pushed 2 commits to kdy1/comit-typescript-react-study
-🎉 Merged PR #8 in kdy1/comit-typescript-react-study
-🗣 Commented on #917 in swc-project/swc
-⬆️ Pushed 1 commit to kdy1/kdy1.github.io
-⬆️ Pushed 4 commits to kdy1/swc
+⬆️ Pushed 49 commits to kdy1/swc
+⬆️ Pushed 51 commits to kdy1/swc
+⬆️ Pushed 1 commit to kdy1/swc
+🗣 Commented on #909 in swc-project/swc
+⬆️ Pushed 2 commits to kdy1/swc
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, July 31st 2020, 8:47:53 am UTC</b></p>
+<p align="center">Last refresh: <b>Friday, July 31st 2020, 9:47:58 am UTC</b></p>
