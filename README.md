@@ -16,9 +16,9 @@
 ⭐️ 11   📦 kdy1/typed_firestore
 ⭐️ 6    📦 kdy1/swc
 ⭐️ 5    📦 kdy1/is-macro
+⭐️ 4    📦 kdy1/cargo-mono
 ⭐️ 4    📦 kdy1/flatten
 ⭐️ 4    📦 kdy1/rust-pmutil
-⭐️ 3    📦 kdy1/cargo-mono
 ⭐️ 3    📦 kdy1/pure_firestore
 ⭐️ 3    📦 kdy1/react-forms
 ```
@@ -34,4 +34,4 @@
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, August 2nd 2020, 7:48:05 pm UTC</b></p>
+<p align="center">Last refresh: <b>Sunday, August 2nd 2020, 8:48:08 pm UTC</b></p>
