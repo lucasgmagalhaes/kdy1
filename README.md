@@ -11,16 +11,16 @@
 ### My projects:
 
 ```
-⭐️ 8723 📦 swc-project/swc
+⭐️ 8725 📦 swc-project/swc
 ⭐️ 139  📦 kdy1/rweb
 ⭐️ 11   📦 kdy1/typed_firestore
 ⭐️ 6    📦 kdy1/swc
 ⭐️ 5    📦 kdy1/is-macro
 ⭐️ 4    📦 kdy1/flatten
 ⭐️ 4    📦 kdy1/rust-pmutil
+⭐️ 3    📦 kdy1/cargo-mono
 ⭐️ 3    📦 kdy1/pure_firestore
 ⭐️ 3    📦 kdy1/react-forms
-⭐️ 2    📦 kdy1/app_base
 ```
 
 ### My activity:
@@ -34,4 +34,4 @@
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, August 2nd 2020, 5:48:10 pm UTC</b></p>
+<p align="center">Last refresh: <b>Sunday, August 2nd 2020, 6:48:07 pm UTC</b></p>
