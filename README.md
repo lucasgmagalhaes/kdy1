@@ -26,12 +26,12 @@
 ### My activity:
 
 ```
-⬆️ Pushed 1 commit to kdy1/swc
-⬆️ Pushed 1 commit to kdy1/swc
-⬆️ Pushed 1 commit to kdy1/swc
-💪 Opened PR #925 in swc-project/swc
-⬆️ Pushed 6 commits to kdy1/swc
+📦 Released "null" in swc-project/node-swc
+🗣 Commented on #813 in swc-project/swc
+⬆️ Pushed 1 commit to swc-project/node-swc
+⬆️ Pushed 1 commit to swc-project/swc
+🎉 Merged PR #925 in swc-project/swc
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, August 2nd 2020, 9:48:17 am UTC</b></p>
+<p align="center">Last refresh: <b>Sunday, August 2nd 2020, 10:48:13 am UTC</b></p>
