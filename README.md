@@ -11,11 +11,11 @@
 ### My projects:
 
 ```
-⭐️ 8732 📦 swc-project/swc
+⭐️ 8740 📦 swc-project/swc
 ⭐️ 139  📦 kdy1/rweb
 ⭐️ 11   📦 kdy1/typed_firestore
+⭐️ 7    📦 kdy1/cargo-mono
 ⭐️ 6    📦 kdy1/swc
-⭐️ 5    📦 kdy1/cargo-mono
 ⭐️ 5    📦 kdy1/is-macro
 ⭐️ 4    📦 kdy1/flatten
 ⭐️ 4    📦 kdy1/rust-pmutil
@@ -34,4 +34,4 @@
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, August 3rd 2020, 1:48:11 am UTC</b></p>
+<p align="center">Last refresh: <b>Monday, August 3rd 2020, 2:47:52 am UTC</b></p>
