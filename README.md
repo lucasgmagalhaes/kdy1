@@ -11,7 +11,7 @@
 ### My projects:
 
 ```
-⭐️ 8740 📦 swc-project/swc
+⭐️ 8741 📦 swc-project/swc
 ⭐️ 139  📦 kdy1/rweb
 ⭐️ 11   📦 kdy1/typed_firestore
 ⭐️ 7    📦 kdy1/cargo-mono
@@ -26,12 +26,12 @@
 ### My activity:
 
 ```
+💪 Opened PR #928 in swc-project/swc
+⬆️ Pushed 1 commit to kdy1/swc
 ⬆️ Pushed 1 commit to kdy1/swc
 ⬆️ Pushed 5 commits to kdy1/swc
 ⬆️ Pushed 2 commits to kdy1/swc
-⬆️ Pushed 29 commits to kdy1/swc
-⬆️ Pushed 1 commit to swc-project/rustdoc
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, August 3rd 2020, 5:47:57 am UTC</b></p>
+<p align="center">Last refresh: <b>Monday, August 3rd 2020, 6:47:59 am UTC</b></p>
