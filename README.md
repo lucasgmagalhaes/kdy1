@@ -11,7 +11,7 @@
 ### My projects:
 
 ```
-⭐️ 141 📦 kdy1/rweb
+⭐️ 142 📦 kdy1/rweb
 ⭐️ 11  📦 kdy1/typed_firestore
 ⭐️ 7   📦 kdy1/cargo-mono
 ⭐️ 6   📦 kdy1/swc
@@ -26,12 +26,12 @@
 ### My activity:
 
 ```
-⬆️ Pushed 5 commits to kdy1/swc-ts-stack-checker
-⬆️ Pushed 1 commit to kdy1/swc
-❌ Closed PR #934 in swc-project/swc
-🗣 Commented on #934 in swc-project/swc
-⬆️ Pushed 1 commit to kdy1/swc
+⬆️ Pushed 1 commit to kdy1/rweb
+🎉 Merged PR #42 in kdy1/rweb
+⬆️ Pushed 1 commit to kdy1/swc-ts-stack-checker
+⬆️ Pushed 1 commit to kdy1/swc-ts-stack-checker
+⬆️ Pushed 1 commit to kdy1/swc-ts-stack-checker
 ```
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, August 4th 2020, 11:47:55 am UTC</b></p>
+<p align="center">Last refresh: <b>Tuesday, August 4th 2020, 12:48:19 pm UTC</b></p>
