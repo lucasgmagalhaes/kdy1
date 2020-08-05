@@ -6,6 +6,7 @@
 
 - How to reach me
   - [Facebook](https://www.facebook.com/profile.php?id=100024888122318)
+  - [Linedin](https://www.linkedin.com/in/kdy1/)
   - [Instagram](https://www.instagram.com/kdy1123/)
 
 ### My projects:
