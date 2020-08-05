@@ -6,6 +6,7 @@
 
 - How to reach me
   - [Facebook](https://www.facebook.com/profile.php?id=100024888122318)
+  - [Linedin](https://www.linkedin.com/in/kdy1/)
   - [Instagram](https://www.instagram.com/kdy1123/)
 
 ### My projects:
@@ -26,12 +27,12 @@
 ### My activity:
 
 ```
+⬆️ Pushed 1 commit to kdy1/kdy1
 ⬆️ Pushed 2 commits to kdy1/swc
 🗣 Commented on #930 in swc-project/swc
-⬆️ Pushed 1 commit to kdy1/swc-ts-stack-checker
 ⬆️ Pushed 1 commit to kdy1/swc-ts-stack-checker
 ⬆️ Pushed 1 commit to kdy1/swc-ts-stack-checker
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, August 5th 2020, 8:48:17 am UTC</b></p>
+<p align="center">Last refresh: <b>Wednesday, August 5th 2020, 9:10:13 am UTC</b></p>
