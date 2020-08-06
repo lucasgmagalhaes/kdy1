@@ -27,12 +27,12 @@
 ### My activity:
 
 ```
-⬆️ Pushed 1 commit to kdy1/swc
-❗️ Closed issue #938 in swc-project/swc
-🗣 Commented on #938 in swc-project/swc
-⬆️ Pushed 3 commits to kdy1/swc
-⬆️ Pushed 2 commits to kdy1/swc
+⬆️ Pushed 1 commit to swc-project/rustdoc
+📦 Released "null" in swc-project/node-swc
+⬆️ Pushed 1 commit to swc-project/rustdoc
+⬆️ Pushed 1 commit to swc-project/node-swc
+⬆️ Pushed 1 commit to swc-project/swc
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, August 6th 2020, 5:48:00 am UTC</b></p>
+<p align="center">Last refresh: <b>Thursday, August 6th 2020, 6:48:04 am UTC</b></p>
