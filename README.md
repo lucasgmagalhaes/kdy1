@@ -12,10 +12,10 @@
 ### My projects:
 
 ```
-⭐️ 144 📦 kdy1/rweb
+⭐️ 145 📦 kdy1/rweb
 ⭐️ 11  📦 kdy1/typed_firestore
-⭐️ 8   📦 kdy1/cargo-mono
-⭐️ 6   📦 kdy1/swc
+⭐️ 9   📦 kdy1/cargo-mono
+⭐️ 7   📦 kdy1/swc
 ⭐️ 5   📦 kdy1/is-macro
 ⭐️ 4   📦 kdy1/flatten
 ⭐️ 4   📦 kdy1/rust-pmutil
@@ -35,4 +35,4 @@
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, August 12th 2020, 1:48:02 am UTC</b></p>
+<p align="center">Last refresh: <b>Wednesday, August 12th 2020, 2:47:52 am UTC</b></p>
