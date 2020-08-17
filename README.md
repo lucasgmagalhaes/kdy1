@@ -27,12 +27,12 @@
 ### My activity:
 
 ```
+💪 Opened PR #973 in swc-project/swc
+⬆️ Pushed 1 commit to kdy1/swc
+⬆️ Pushed 1 commit to kdy1/swc
 ⬆️ Pushed 5 commits to kdy1/swc
 ⬆️ Pushed 1 commit to swc-project/rustdoc
-⬆️ Pushed 6 commits to kdy1/swc
-⬆️ Pushed 1 commit to swc-project/swc
-🎉 Merged PR #972 in swc-project/swc
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, August 17th 2020, 6:47:55 am UTC</b></p>
+<p align="center">Last refresh: <b>Monday, August 17th 2020, 7:48:02 am UTC</b></p>
