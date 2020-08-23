@@ -27,12 +27,12 @@
 ### My activity:
 
 ```
-🗣 Commented on #271 in denoland/deno_lint
+⬆️ Pushed 1 commit to swc-project/swc
+🎉 Merged PR #990 in swc-project/swc
 ⬆️ Pushed 1 commit to kdy1/swc
-⬆️ Pushed 1 commit to kdy1/kdy1.github.io
-⬆️ Pushed 1 commit to kdy1/kdy1.github.io
-⬆️ Pushed 1 commit to swc-project/rustdoc
+⬆️ Pushed 0 commit to swc-project/swc
+⬆️ Pushed 1 commit to swc-project/swc
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, August 23rd 2020, 1:48:13 am UTC</b></p>
+<p align="center">Last refresh: <b>Sunday, August 23rd 2020, 2:47:50 am UTC</b></p>
