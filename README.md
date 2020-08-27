@@ -27,12 +27,12 @@
 ### My activity:
 
 ```
+💪 Opened PR #1006 in swc-project/swc
 ⬆️ Pushed 1 commit to kdy1/swc
 🗣 Commented on #43 in Brooooooklyn/swc-node
 🗣 Commented on #43 in Brooooooklyn/swc-node
-⬆️ Pushed 19 commits to kdy1/deno_lint
-🗣 Commented on #43 in Brooooooklyn/swc-node
+⬆️ Pushed 1 commit to kdy1/swc
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, August 27th 2020, 9:48:06 am UTC</b></p>
+<p align="center">Last refresh: <b>Thursday, August 27th 2020, 10:47:52 am UTC</b></p>
