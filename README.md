@@ -15,7 +15,7 @@
 ⭐️ 148 📦 kdy1/rweb
 ⭐️ 11  📦 kdy1/typed_firestore
 ⭐️ 9   📦 kdy1/cargo-mono
-⭐️ 7   📦 kdy1/swc
+⭐️ 8   📦 kdy1/swc
 ⭐️ 5   📦 kdy1/is-macro
 ⭐️ 4   📦 kdy1/flatten
 ⭐️ 4   📦 kdy1/rust-pmutil
@@ -35,4 +35,4 @@
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, September 4th 2020, 10:48:00 pm UTC</b></p>
+<p align="center">Last refresh: <b>Friday, September 4th 2020, 11:48:04 pm UTC</b></p>
