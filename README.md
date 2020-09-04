@@ -27,12 +27,12 @@
 ### My activity:
 
 ```
-⬆️ Pushed 1 commit to kdy1/kdy1.github.io
+⬆️ Pushed 1 commit to kdy1/swc
+⬆️ Pushed 1 commit to kdy1/swc
+⬆️ Pushed 3 commits to kdy1/swc
 ⬆️ Pushed 5 commits to kdy1/swc
-⬆️ Pushed 1 commit to swc-project/rustdoc
-⬆️ Pushed 4 commits to kdy1/swc
-⬆️ Pushed 1 commit to swc-project/swc
+⬆️ Pushed 1 commit to kdy1/kdy1.github.io
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, September 4th 2020, 10:48:03 am UTC</b></p>
+<p align="center">Last refresh: <b>Friday, September 4th 2020, 11:48:02 am UTC</b></p>
