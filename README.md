@@ -27,12 +27,12 @@
 ### My activity:
 
 ```
-⬆️ Pushed 18 commits to kdy1/swc
-🗣 Commented on #788 in vitejs/vite
 ⬆️ Pushed 1 commit to swc-project/rustdoc
-🗣 Commented on #1040 in swc-project/swc
+🗣 Commented on #1038 in swc-project/swc
 ⬆️ Pushed 1 commit to swc-project/swc
+🎉 Merged PR #1041 in swc-project/swc
+❗️ Closed issue #1038 in swc-project/swc
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, September 7th 2020, 9:48:04 am UTC</b></p>
+<p align="center">Last refresh: <b>Monday, September 7th 2020, 10:48:06 am UTC</b></p>
