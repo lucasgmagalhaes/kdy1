@@ -28,11 +28,11 @@
 
 ```
 ⬆️ Pushed 1 commit to swc-project/rustdoc
-🗣 Commented on #1038 in swc-project/swc
 ⬆️ Pushed 1 commit to swc-project/swc
-🎉 Merged PR #1041 in swc-project/swc
-❗️ Closed issue #1038 in swc-project/swc
+🎉 Merged PR #1034 in swc-project/swc
+⬆️ Pushed 2 commits to kdy1/swc
+⬆️ Pushed 2 commits to kdy1/swc
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, September 7th 2020, 10:48:06 am UTC</b></p>
+<p align="center">Last refresh: <b>Monday, September 7th 2020, 11:47:53 am UTC</b></p>
