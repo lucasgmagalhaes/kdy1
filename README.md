@@ -29,10 +29,10 @@
 ```
 ⬆️ Pushed 1 commit to kdy1/deno_lint
 ⬆️ Pushed 1 commit to kdy1/deno_lint
+⬆️ Pushed 1 commit to kdy1/deno_lint
 💪 Opened PR #304 in denoland/deno_lint
 ⬆️ Pushed 13 commits to kdy1/deno_lint
-❗️ Closed issue #1047 in swc-project/swc
 ```
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, September 8th 2020, 8:47:55 am UTC</b></p>
+<p align="center">Last refresh: <b>Tuesday, September 8th 2020, 9:48:02 am UTC</b></p>
