@@ -27,12 +27,12 @@
 ### My activity:
 
 ```
+🗣 Commented on #1043 in swc-project/swc
+⬆️ Pushed 2 commits to kdy1/swc
+⬆️ Pushed 13 commits to kdy1/swc
 🗣 Commented on #304 in denoland/deno_lint
 ⬆️ Pushed 2 commits to kdy1/deno_lint
-⬆️ Pushed 2 commits to kdy1/deno_lint
-⬆️ Pushed 1 commit to swc-project/swc-project.github.io
-⬆️ Pushed 1 commit to swc-project/website
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, September 9th 2020, 1:47:55 pm UTC</b></p>
+<p align="center">Last refresh: <b>Wednesday, September 9th 2020, 2:47:54 pm UTC</b></p>
