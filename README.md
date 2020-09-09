@@ -28,11 +28,11 @@
 
 ```
 ⬆️ Pushed 1 commit to kdy1/swc
-⬆️ Pushed 1 commit to kdy1/kdy1.github.io
-🗣 Commented on #1052 in swc-project/swc
-⬆️ Pushed 1 commit to kdy1/swc
-💪 Opened PR #1051 in swc-project/swc
+⬆️ Pushed 1 commit to swc-project/rustdoc
+⬆️ Pushed 1 commit to swc-project/swc
+🎉 Merged PR #1051 in swc-project/swc
+❗️ Closed issue #1050 in swc-project/swc
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, September 9th 2020, 2:47:54 am UTC</b></p>
+<p align="center">Last refresh: <b>Wednesday, September 9th 2020, 3:48:11 am UTC</b></p>
