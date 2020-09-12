@@ -27,12 +27,12 @@
 ### My activity:
 
 ```
-⬆️ Pushed 1 commit to kdy1/deno_lint
-⬆️ Pushed 2 commits to kdy1/swc
-💪 Opened PR #1068 in swc-project/swc
-⬆️ Pushed 2 commits to kdy1/swc
-⬆️ Pushed 1 commit to swc-project/ts-parser-test-ref
+⬆️ Pushed 1 commit to swc-project/rustdoc
+⬆️ Pushed 1 commit to kdy1/swc
+⬆️ Pushed 1 commit to swc-project/swc
+🎉 Merged PR #1068 in swc-project/swc
+❗️ Closed issue #1066 in swc-project/swc
 ```
 
 ------------
-<p align="center">Last refresh: <b>Saturday, September 12th 2020, 8:47:59 am UTC</b></p>
+<p align="center">Last refresh: <b>Saturday, September 12th 2020, 9:47:57 am UTC</b></p>
