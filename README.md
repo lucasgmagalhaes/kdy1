@@ -27,12 +27,12 @@
 ### My activity:
 
 ```
+⬆️ Pushed 1 commit to kdy1/kdy1.github.io
 ⬆️ Pushed 14 commits to kdy1/swc
 🗣 Commented on #4500 in rust-analyzer/rust-analyzer
 ⬆️ Pushed 1 commit to swc-project/rustdoc
 🗣 Commented on #4500 in rust-analyzer/rust-analyzer
-⬆️ Pushed 1 commit to swc-project/swc
 ```
 
 ------------
-<p align="center">Last refresh: <b>Saturday, September 12th 2020, 6:47:59 pm UTC</b></p>
+<p align="center">Last refresh: <b>Saturday, September 12th 2020, 7:48:17 pm UTC</b></p>
