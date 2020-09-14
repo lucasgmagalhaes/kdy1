@@ -27,12 +27,12 @@
 ### My activity:
 
 ```
+⬆️ Pushed 1 commit to kdy1/deno_lint
 ⬆️ Pushed 5 commits to kdy1/swc
 ⬆️ Pushed 10 commits to kdy1/swc
 💪 Opened PR #7461 in denoland/deno
 ⬆️ Pushed 3 commits to kdy1/swc
-💪 Opened PR #1075 in swc-project/swc
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, September 14th 2020, 12:47:55 pm UTC</b></p>
+<p align="center">Last refresh: <b>Monday, September 14th 2020, 1:48:01 pm UTC</b></p>
