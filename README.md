@@ -28,11 +28,11 @@
 
 ```
 ⬆️ Pushed 1 commit to kdy1/deno
-⬆️ Pushed 1 commit to swc-project/rustdoc
+🗣 Commented on #7461 in denoland/deno
+🗣 Commented on #1081 in swc-project/swc
 ⬆️ Pushed 1 commit to kdy1/deno
-⬆️ Pushed 1 commit to swc-project/swc
-🎉 Merged PR #1083 in swc-project/swc
+⬆️ Pushed 1 commit to swc-project/swc-project.github.io
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, September 18th 2020, 9:48:07 am UTC</b></p>
+<p align="center">Last refresh: <b>Friday, September 18th 2020, 10:47:55 am UTC</b></p>
