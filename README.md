@@ -27,12 +27,12 @@
 ### My activity:
 
 ```
+🗣 Commented on #1094 in swc-project/swc
+⬆️ Pushed 39 commits to kdy1/swc
 ⬆️ Pushed 1 commit to kdy1/kdy1.github.io
 💪 Opened PR #2 in swc-project/typescript
 ❌ Closed PR #1 in swc-project/typescript
-⬆️ Pushed 1 commit to swc-project/typescript
-⬆️ Pushed 2 commits to swc-project/typescript
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, September 23rd 2020, 9:47:55 am UTC</b></p>
+<p align="center">Last refresh: <b>Wednesday, September 23rd 2020, 10:48:16 am UTC</b></p>
