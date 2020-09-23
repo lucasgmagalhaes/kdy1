@@ -27,12 +27,12 @@
 ### My activity:
 
 ```
-⬆️ Pushed 3 commits to swc-project/typescript
-⬆️ Pushed 15 commits to swc-project/typescript
-⬆️ Pushed 1 commit to swc-project/rustdoc
-🗣 Commented on #7623 in denoland/deno
-⬆️ Pushed 1 commit to swc-project/swc
+⬆️ Pushed 1 commit to kdy1/kdy1.github.io
+💪 Opened PR #2 in swc-project/typescript
+❌ Closed PR #1 in swc-project/typescript
+⬆️ Pushed 1 commit to swc-project/typescript
+⬆️ Pushed 2 commits to swc-project/typescript
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, September 23rd 2020, 8:48:05 am UTC</b></p>
+<p align="center">Last refresh: <b>Wednesday, September 23rd 2020, 9:47:55 am UTC</b></p>
