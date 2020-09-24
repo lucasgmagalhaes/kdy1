@@ -28,11 +28,11 @@
 
 ```
 ⬆️ Pushed 1 commit to swc-project/typescript
-⬆️ Pushed 1 commit to kdy1/swc
-⬆️ Pushed 43 commits to kdy1/swc
-⬆️ Pushed 43 commits to swc-project/typescript
-⬆️ Pushed 2 commits to kdy1/swc
+⬆️ Pushed 15 commits to kdy1/swc
+⬆️ Pushed 3 commits to swc-project/typescript
+⬆️ Pushed 12 commits to swc-project/typescript
+⬆️ Pushed 1 commit to swc-project/typescript
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, September 24th 2020, 3:48:09 pm UTC</b></p>
+<p align="center">Last refresh: <b>Thursday, September 24th 2020, 4:47:59 pm UTC</b></p>
