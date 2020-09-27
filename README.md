@@ -12,7 +12,7 @@
 ### My projects:
 
 ```
-⭐️ 150 📦 kdy1/rweb
+⭐️ 151 📦 kdy1/rweb
 ⭐️ 11  📦 kdy1/typed_firestore
 ⭐️ 9   📦 kdy1/cargo-mono
 ⭐️ 8   📦 kdy1/swc
@@ -27,12 +27,12 @@
 ### My activity:
 
 ```
+❌ Closed PR #844 in swc-project/swc
+🗣 Commented on #844 in swc-project/swc
 ⬆️ Pushed 1 commit to kdy1/kdy1.github.io
 ⬆️ Pushed 1 commit to kdy1/kdy1.github.io
 ⬆️ Pushed 1 commit to kdy1/kdy1.github.io
-⬆️ Pushed 6 commits to swc-project/typescript
-⬆️ Pushed 12 commits to swc-project/typescript
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, September 27th 2020, 11:47:54 am UTC</b></p>
+<p align="center">Last refresh: <b>Sunday, September 27th 2020, 12:48:08 pm UTC</b></p>
