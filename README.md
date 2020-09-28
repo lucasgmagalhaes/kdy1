@@ -27,12 +27,12 @@
 ### My activity:
 
 ```
+🗣 Commented on #340 in denoland/deno_lint
+⬆️ Pushed 3 commits to kdy1/swc
 ⬆️ Pushed 10 commits to kdy1/swc
 🗣 Commented on #1678 in kangax/compat-table
 🗣 Commented on #1678 in kangax/compat-table
-🗣 Commented on #1105 in swc-project/swc
-❗️ Opened issue #1678 in kangax/compat-table
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, September 28th 2020, 9:48:05 am UTC</b></p>
+<p align="center">Last refresh: <b>Monday, September 28th 2020, 10:47:55 am UTC</b></p>
