@@ -27,12 +27,12 @@
 ### My activity:
 
 ```
+⬆️ Pushed 10 commits to kdy1/swc
 🗣 Commented on #1678 in kangax/compat-table
 🗣 Commented on #1678 in kangax/compat-table
 🗣 Commented on #1105 in swc-project/swc
 ❗️ Opened issue #1678 in kangax/compat-table
-⬆️ Pushed 1 commit to swc-project/swc-project.github.io
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, September 28th 2020, 8:47:57 am UTC</b></p>
+<p align="center">Last refresh: <b>Monday, September 28th 2020, 9:48:05 am UTC</b></p>
