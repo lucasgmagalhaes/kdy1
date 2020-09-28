@@ -28,11 +28,11 @@
 
 ```
 🗣 Commented on #1678 in kangax/compat-table
+🗣 Commented on #1678 in kangax/compat-table
 🗣 Commented on #1105 in swc-project/swc
 ❗️ Opened issue #1678 in kangax/compat-table
 ⬆️ Pushed 1 commit to swc-project/swc-project.github.io
-🗣 Commented on #491 in swc-project/swc
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, September 28th 2020, 4:48:04 am UTC</b></p>
+<p align="center">Last refresh: <b>Monday, September 28th 2020, 5:48:05 am UTC</b></p>
