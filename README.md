@@ -27,12 +27,12 @@
 ### My activity:
 
 ```
-🗣 Commented on #1114 in swc-project/swc
-⬆️ Pushed 2 commits to swc-project/typescript
-⬆️ Pushed 5 commits to swc-project/typescript
-❌ Closed PR #844 in swc-project/swc
-🗣 Commented on #844 in swc-project/swc
+❗️ Opened issue #1678 in kangax/compat-table
+⬆️ Pushed 1 commit to swc-project/swc-project.github.io
+🗣 Commented on #491 in swc-project/swc
+⬆️ Pushed 1 commit to swc-project/website
+⬆️ Pushed 1 commit to kdy1/kdy1.github.io
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, September 27th 2020, 11:48:06 pm UTC</b></p>
+<p align="center">Last refresh: <b>Monday, September 28th 2020, 1:10:25 am UTC</b></p>
